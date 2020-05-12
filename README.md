@@ -11,10 +11,10 @@ Neovim Vim-Plug:
        
 Unix:
   ~/.config/nvim/init.vim
-  # cd
-  # cd /.config
-  # mkdir nvim
-  # nvim init.vim
+  " cd
+  " cd /.config
+  " mkdir nvim
+  " nvim init.vim
   
 --> init.vim
 
